@@ -1,0 +1,43 @@
+.navbar {
+  height: 60px;
+  background-color: white;
+  border-bottom: 1px solid #f1f1f1;
+  display: flex;
+  justify-content: center;
+}
+
+.navcontainer {
+  width: 100%;
+  max-width: 1024px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.logo {
+  font-weight: 500;
+  color: black;
+}
+
+.navItems {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.signin {
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 3px;
+  border: none;
+  background-color: #003580;
+  color: white;
+}
+
+.content {
+  min-height: 90vh;
+  padding: 15px;
+}
