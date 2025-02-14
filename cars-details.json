@@ -1,0 +1,89 @@
+[
+  {
+    "category": "Sedan",
+    "vehicles": [
+      {
+        "name": "Toyota Camry",
+        "image": "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg",
+        "capacity": 5,
+        "fuelType": "Petrol",
+        "transmission": "Automatic",
+        "rentPerHour": 25
+      },
+      {
+        "name": "Honda Accord",
+        "image": "https://images.pexels.com/photos/1702407/pexels-photo-1702407.jpeg",
+        "capacity": 5,
+        "fuelType": "Hybrid",
+        "transmission": "Automatic",
+        "rentPerHour": 28
+      },
+      {
+        "name": "Hyundai Sonata",
+        "image": "https://images.pexels.com/photos/134127/pexels-photo-134127.jpeg",
+        "capacity": 5,
+        "fuelType": "Petrol",
+        "transmission": "Manual",
+        "rentPerHour": 22
+      }
+    ]
+  },
+  {
+    "category": "SUV",
+    "vehicles": [
+      {
+        "name": "Toyota RAV4",
+        "image": "https://images.pexels.com/photos/18208347/pexels-photo-18208347.jpeg",
+        "capacity": 7,
+        "fuelType": "Petrol",
+        "transmission": "Automatic",
+        "rentPerHour": 35
+      },
+      {
+        "name": "Ford Explorer",
+        "image": "https://images.pexels.com/photos/1402787/pexels-photo-1402787.jpeg",
+        "capacity": 7,
+        "fuelType": "Diesel",
+        "transmission": "Automatic",
+        "rentPerHour": 40
+      },
+      {
+        "name": "Nissan X-Trail",
+        "image": "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg",
+        "capacity": 7,
+        "fuelType": "Hybrid",
+        "transmission": "Manual",
+        "rentPerHour": 38
+      }
+    ]
+  },
+  {
+    "category": "Luxury",
+    "vehicles": [
+      {
+        "name": "Mercedes-Benz S-Class",
+        "image": "https://images.pexels.com/photos/1402787/pexels-photo-1402787.jpeg",
+        "capacity": 4,
+        "fuelType": "Petrol",
+        "transmission": "Automatic",
+        "rentPerHour": 100
+      },
+      {
+        "name": "BMW 7 Series",
+        "image": "https://images.pexels.com/photos/108931/pexels-photo-108931.jpeg",
+        "capacity": 4,
+        "fuelType": "Diesel",
+        "transmission": "Automatic",
+        "rentPerHour": 110
+      },
+      {
+        "name": "Audi A8",
+        "image": "https://images.pexels.com/photos/190537/pexels-photo-190537.jpeg",
+        "capacity": 4,
+        "fuelType": "Hybrid",
+        "transmission": "Automatic",
+        "rentPerHour": 120
+      }
+    ]
+  }
+]
