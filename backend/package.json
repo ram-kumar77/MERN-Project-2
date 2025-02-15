@@ -3,13 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "engines": {
-  "node": "18.x",
-  "npm": "9.x"
-  },
+
+"engines": {
+  "node": "16.8.0",
+  "npm": "7.21.0"
+},
   "scripts": {
     "frontend-install": "npm install --prefix frontend",
-    "server": "nodemon backend/server.js",
+    "server": "node backend/server.js",
     "frontend": "npm start --prefix frontend",
     "dev": "concurrently \"npm run server\" \"npm run frontend\"",
     "start": "node backend/server.js",
