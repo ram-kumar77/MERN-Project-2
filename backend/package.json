@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "engines": {
-    "node": "16.8.0",
-    "npm": "7.21.0"
+  "node": "18.x",
+  "npm": "9.x"
   },
   "scripts": {
     "frontend-install": "npm install --prefix frontend",
